@@ -39,7 +39,7 @@ These instructions will help you set up and run the project on your local machin
 ### Clone the Repository
 ```bash
 git clone https://github.com/manasapuellela/celvora-task-manager.git
-cd celvora-task-manager '''
+cd celvora-task-manager ```
 
 ### **Backend Setup (Django)**
 
