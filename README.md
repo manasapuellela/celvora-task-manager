@@ -32,3 +32,11 @@ These instructions will help you set up and run the project on your local machin
 ```bash
 git clone https://github.com/manasapuellela/celvora-task-manager.git
 cd celvora-task-manager
+
+## **Backend Setup (Django)**
+
+### **Create a virtual environment:**
+```bash
+python -m venv myenv
+source myenv/bin/activate  # On Windows, use `myenv\Scripts\activate`
+
