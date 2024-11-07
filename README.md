@@ -41,30 +41,30 @@ These instructions will help you set up and run the project on your local machin
 git clone https://github.com/manasapuellela/celvora-task-manager.git
 cd celvora-task-manager
 
-# **Backend Setup (Django)**
+### **Backend Setup (Django)**
 
-# **Create a virtual environment:**
+### **Create a virtual environment:**
 python -m venv myenv
 source myenv/bin/activate  # On Windows, use `myenv\Scripts\activate`
 
-# **Install the dependencies:**
+### **Install the dependencies:**
 pip install -r requirements.txt
 
-# **Run migrations:**
+### **Run migrations:**
 python manage.py migrate
 
-# **Start the Django server:**
+### **Start the Django server:**
 python manage.py runserver
 
-# **Frontend Setup (Vue.js)**
+### **Frontend Setup (Vue.js)**
 
-# **Navigate to the frontend directory:**
+### **Navigate to the frontend directory:**
 cd frontend
 
-# **Install dependencies:**
+### **Install dependencies:**
 npm install
 
-# **Run the Vue development server:**
+### **Run the Vue development server:**
 npm run serve
 
 # **Configuration**
